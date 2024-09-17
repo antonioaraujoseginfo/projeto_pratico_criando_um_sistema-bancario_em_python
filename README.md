@@ -28,6 +28,5 @@ Este projeto é um sistema bancário simples desenvolvido em Python, permitindo 
 
 - **Nome:** Antonio Araújo
 - **Email:** antonioaraujolb@gmail.com
-- **LinkedIn:** [seu-perfil-linkedin](https://www.linkedin.com)
-
+- **LinkedIn:** https://www.linkedin.com/in/antonio-araujo-seginfo/
 ---
